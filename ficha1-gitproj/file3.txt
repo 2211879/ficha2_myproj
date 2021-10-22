@@ -1,4 +1,4 @@
-Este é o exemplo de um ficheiro de texto file3
+Este é o exemplo do ficheiro de texto file3
 Programação de Sistemas de Informação
 PSI
 
@@ -8,4 +8,12 @@ PSI
  <li>Coffee</li>
  <li>Tea</li>
  <li>Milk</li>
+</ul>
+
+<h2>Comidas</h2>
+
+<ul>
+ <li>Bolos</li>
+ <li>Tostas</li>
+ <li>Sandes</li>
 </ul>
